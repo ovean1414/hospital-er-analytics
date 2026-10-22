@@ -57,7 +57,7 @@ Build a complete end-to-end analytics solution to:
 ![Page 4](insights/PowerBI_page4.png)
 
 ### Excel Dashboard
-![Excel](insights/Excel_Dashboard.png)
+![Excel](insights/excel_dashboard.png)
 
 ## 💡 Business Recommendations
 
