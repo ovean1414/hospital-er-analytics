@@ -40,3 +40,43 @@ Build a complete end-to-end analytics solution to:
 | Excel | Pivot dashboard | Power Query, Pivot Tables, Slicers, Charts |
 
 ## 📁 Project Structure
+
+
+## 📸 Dashboard Screenshots
+
+### Power BI — Executive Summary
+![Page 1](insights/PowerBI_page1.jpeg)
+
+### Power BI — Operations & Peak Hours
+![Page 2](insights/PowerBI_page2.png)
+
+### Power BI — Department & Patient Analysis
+![Page 3](insights/PowerBI_page3.png)
+
+### Power BI — Business Recommendations
+![Page 4](insights/PowerBI_page4.png)
+
+### Excel Dashboard
+![Excel](insights/Excel_Dashboard.png)
+
+## 💡 Business Recommendations
+
+1. **Increase staffing by 30%** during 8am-12pm peak window
+2. **Review Neurology scheduling** — specialist availability issue
+3. **Implement 60-min alert system** for at-risk patients
+4. **Replicate Cardiology model** across all departments
+
+## 🎯 Expected Impact
+
+Implementing these recommendations could:
+- Reduce peak wait time from 45 mins → below 35 mins
+- Improve satisfaction from 5.74 → 7.5/10
+- Reduce critical experience patients from 456 → below 200
+
+## 👨‍💻 Analyst
+
+**Ovean S** | Data Analyst
+📧 ovean14272000@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ovean-sugirdas)
+🐙 [GitHub](https://github.com/ovean1414)
+
