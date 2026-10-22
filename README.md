@@ -105,6 +105,13 @@ Implementing these recommendations could:
 ## 👨‍💻 Analyst
 
 **Ovean S** | Data Analyst
+
+## 📌 Dataset Note
+The data in this project is synthetic, generated using Python 
+to simulate realistic ER patterns. The hospital and scenario 
+are fictional. The goal is to demonstrate end-to-end analytics: 
+data cleaning, SQL analysis, dashboard design and business 
+recommendations.
 📧 ovean14272000@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/ovean-sugirdas)
 🐙 [GitHub](https://github.com/ovean1414)
