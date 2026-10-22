@@ -63,7 +63,7 @@ hospital-er-analytics/
 │   └── hospital_er_dashboard.pbix
 │
 └── insights/
-    ├── PowerBI_page1.png
+    ├── PowerBI_page1.jpeg
     ├── PowerBI_page2.png
     ├── PowerBI_page3.png
     ├── PowerBI_page4.png
@@ -74,7 +74,7 @@ hospital-er-analytics/
 ## 📸 Dashboard Screenshots
 
 ### Power BI — Executive Summary
-![Page 1](insights/PowerBI_page1.png)
+![Page 1](insights/PowerBI_page1.jpeg)
 
 ### Power BI — Operations & Peak Hours
 ![Page 2](insights/PowerBI_page2.png)
