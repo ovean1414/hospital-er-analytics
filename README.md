@@ -41,11 +41,40 @@ Build a complete end-to-end analytics solution to:
 
 ## 📁 Project Structure
 
+```
+hospital-er-analytics/
+│
+├── data/
+│   ├── hospital_er_raw.csv
+│   └── hospital_er_clean.csv
+│
+├── python/
+│   ├── cleaning.py
+│   ├── analysis.py
+│   └── load_to_mysql.py
+│
+├── sql/
+│   └── analysis.sql
+│
+├── excel/
+│   └── hospital_er_dashboard.xlsx
+│
+├── powerbi/
+│   └── hospital_er_dashboard.pbix
+│
+└── insights/
+    ├── PowerBI_page1.png
+    ├── PowerBI_page2.png
+    ├── PowerBI_page3.png
+    ├── PowerBI_page4.png
+    └── excel_dashboard.png
+```
+
 
 ## 📸 Dashboard Screenshots
 
 ### Power BI — Executive Summary
-![Page 1](insights/PowerBI_page1.jpeg)
+![Page 1](insights/PowerBI_page1.png)
 
 ### Power BI — Operations & Peak Hours
 ![Page 2](insights/PowerBI_page2.png)
