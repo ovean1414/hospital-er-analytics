@@ -64,10 +64,10 @@ hospital-er-analytics/
 │
 └── insights/
     ├── PowerBI_page1.jpeg
-    ├── PowerBI_page2.png
-    ├── PowerBI_page3.png
-    ├── PowerBI_page4.png
-    └── excel_dashboard.png
+    ├── PowerBI_page2.jpeg
+    ├── PowerBI_page3.jpeg
+    ├── PowerBI_page4.jpeg
+    └── excel_dashboard.jpeg
 ```
 
 
@@ -77,16 +77,16 @@ hospital-er-analytics/
 ![Page 1](insights/PowerBI_page1.jpeg)
 
 ### Power BI — Operations & Peak Hours
-![Page 2](insights/PowerBI_page2.png)
+![Page 2](insights/PowerBI_page2.jpeg)
 
 ### Power BI — Department & Patient Analysis
-![Page 3](insights/PowerBI_page3.png)
+![Page 3](insights/PowerBI_page3.jpeg)
 
 ### Power BI — Business Recommendations
-![Page 4](insights/PowerBI_page4.png)
+![Page 4](insights/PowerBI_page4.jpeg)
 
 ### Excel Dashboard
-![Excel](insights/excel_dashboard.png)
+![Excel](insights/excel_dashboard.jpeg)
 
 ## 💡 Business Recommendations
 
